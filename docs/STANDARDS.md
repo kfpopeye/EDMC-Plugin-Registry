@@ -24,3 +24,6 @@ Furthermore, plugins shall be written so as to not request more system privilege
 Code must generally be written to a high standard. This means that code should be readable, well-documented, and conform to the best practices of the language in use. All code must be manually reviewed prior to a plugin submission being accepted for listing. If our manual reviewers can't understand the code or follow it, we can't list it. 
 
 In general, plugins who use Python code should be written generally inline with PEP8 standards, and should use Python 3 coding standards. 
+
+## Version Control
+Plugins must use Semantic Versioning in order to be listed in the EDMC plugin browser. This version must be available in a VERSION constant in the plugin's load.py. 
