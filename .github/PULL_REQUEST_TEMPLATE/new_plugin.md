@@ -22,4 +22,4 @@ assignees: ''
 - [ ] I am an author for this plugin.
 - [ ] I have read and agree to the standards in our [Standards Documentation](/docs/STANDARDS.md).
 - [ ] I am authorized to submit this plugin for listing.
-
+- [ ] This plugin contains a VERSION constant in Semantic Versioning style.
