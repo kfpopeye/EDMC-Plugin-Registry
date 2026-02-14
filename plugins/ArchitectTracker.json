@@ -1,7 +1,7 @@
   {
     "pluginName": "Architect Tracker",
-    "pluginVer": "1.2.2",
-    "pluginZip": "https://github.com/kfpopeye/EliteDangerous/archive/refs/tags/v1.2.2.zip",    
+    "pluginVer": "1.2.2.1",
+    "pluginZip": "https://github.com/kfpopeye/EliteDangerous/archive/refs/tags/v1.2.2.1.zip",    
     "autoUpdateEnabled": false,
     "autoInstallEnabled": false,
     "pluginAuthors": ["kf popeye"],
